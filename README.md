@@ -12,6 +12,6 @@ I got to learn a lot during this Trainings Session and it was an amazing experie
   
 <br>I got to have hands on Projects on:
   
-<"Virtual Cricket Game Application using CPP">
+       "Virtual Cricket Game Application using CPP"
 <br>and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 I enjoyed these sessions and learned lot.
