@@ -1,2 +1,3 @@
 # Virtual-Cricket-Game
-Cricket Game Application based on the CPP coding.
+This is a virtual Cricket Game Application and Hands on Project is done using the CPP.
+
