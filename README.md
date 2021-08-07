@@ -10,7 +10,7 @@ I got to learn a lot during this Trainings Session and it was an amazing experie
 <li>Fundamentals of Object Oriented Programming using CPP
 <li>Diving into CPP Programming and Building Cricket Game Application modules.
   
-<br>I got to have hands on Projects on:
+<br>I got to have hands on Project on:
   
        "Virtual Cricket Game Application using CPP"
 <br>and everything was explained from the very basics so that anyone with zero experience on programming can learn.
