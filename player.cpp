@@ -1,6 +1,6 @@
 #include "player.h"		// <string>
 
-Player::Player() {
+Player::Player() { 
 
 	runsScored = 0;
 	ballsPlayed = 0;
