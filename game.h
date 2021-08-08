@@ -20,7 +20,7 @@ class Game {
 		Player *batsman, *bowler;
 
 		void welcome();
-    void showAllPlayers();
+                void showAllPlayers();
 		int takeIntegerInput();
 		void selectPlayers();
 		bool validateSelectedPlayer(int);
