@@ -9,7 +9,7 @@ int main() {
 
 	cout << "\nPress Enter to continue";
 	getchar();
-game.showAllPlayers();
+        game.showAllPlayers();
 
 	cout << "\nPress Enter to continue";
 	getchar();
@@ -17,15 +17,15 @@ game.showAllPlayers();
 	game.selectPlayers();
 	game.showTeamPlayers();
 
-    cin.ignore(numeric_limits<streamsize>::max(),'\n');
+        cin.ignore(numeric_limits<streamsize>::max(),'\n');
 
-    cout << "\nPress Enter to toss";
-    getchar();
+        cout << "\nPress Enter to toss";
+        getchar();
 
-    game.toss();
-    game.startFirstInnings();
-    game.startSecondInnings();
-    game.showMatchSummary();
+        game.toss();
+        game.startFirstInnings();
+        game.startSecondInnings();
+        game.showMatchSummary();
 
 	return 0;
 }
