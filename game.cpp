@@ -16,7 +16,7 @@ Game::Game() {
 	players[5] = "KLRahul";
 	players[6] = "Jadeja";
 	players[7] = "Hardik";
-  players[8] = "Bumrah";
+        players[8] = "Bumrah";
 	players[9] = "BKumar";
 	players[10] ="Ishant";
 
@@ -27,7 +27,7 @@ Game::Game() {
 
 void Game::welcome() {
 
-	  cout << "---------------------------------------" << endl;
+    cout << "---------------------------------------" << endl;
     cout << "|============== CRIC-IN ==============|" << endl;
     cout << "|                                     |" << endl;
     cout << "|   Welcome to Virtual Cricket Game   |" << endl;
@@ -47,7 +47,7 @@ cout << endl << endl;
 void Game::showAllPlayers() {
 
 	cout << endl;
-  cout << "---------------------------------------" << endl;
+        cout << "---------------------------------------" << endl;
 	cout << "|========== Pool of Players ==========|" << endl;
 	cout << "---------------------------------------" << endl;
 	cout << endl;
